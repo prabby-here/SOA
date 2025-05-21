@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/soa/lab4/mlruns/0/b9a202ea21bb433788a6910d0a86302b/artifacts
+end_time: 1747856446862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9a202ea21bb433788a6910d0a86302b
+run_name: inquisitive-eel-366
+run_uuid: b9a202ea21bb433788a6910d0a86302b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747856434708
+status: 4
+tags: []
+user_id: preet

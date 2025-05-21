@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/soa/lab4/mlruns/0/3699a64decda4fd3a016ed478e4a1fe9/artifacts
+end_time: 1747856666443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3699a64decda4fd3a016ed478e4a1fe9
+run_name: nervous-crow-134
+run_uuid: 3699a64decda4fd3a016ed478e4a1fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747856655479
+status: 4
+tags: []
+user_id: preet

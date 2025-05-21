@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/soa/lab4/mlruns/0/dde0cee2d063428792aad87fe747dc74/artifacts
+end_time: 1747856584495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dde0cee2d063428792aad87fe747dc74
+run_name: nimble-squirrel-50
+run_uuid: dde0cee2d063428792aad87fe747dc74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747856577452
+status: 4
+tags: []
+user_id: preet
